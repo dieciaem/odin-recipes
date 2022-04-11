@@ -1,0 +1,17 @@
+/* stylesheet*/
+
+.header {
+    height: auto;
+    width: 300px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 40px;
+    color: darkslategrey;
+    background-color: #5f9ea080;
+}
+
+.list {
+    background-color: #e9967a80;
+    width: 300px;
+    font-family: 'Trebuchet MS', Tahoma, sans-serif;
+}
